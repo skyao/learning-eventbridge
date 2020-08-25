@@ -21,3 +21,6 @@ EventBridge用户指南：
 - [中文版](https://docs.aws.amazon.com/zh_cn/eventbridge/latest/userguide/user-guide.pdf)
 - [英文版](https://docs.aws.amazon.com/eventbridge/latest/userguide/user-guide.pdf)
 
+## 文章
+
+- [The power of Amazon EventBridge is in its detail](https://medium.com/lego-engineering/the-power-of-amazon-eventbridge-is-in-its-detail-92c07ddcaa40)
